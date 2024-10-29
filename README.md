@@ -2,7 +2,7 @@
 - 👀 I’m interested in leveraging data analytics to improve credit risk assessments and decision-making processes
 - 🌱 I’m currently learning Python, SQL and machine learning techniques to analyze credit data more effectively
 - 💞️ I’m looking to collaborate on projects that involve predictive modeling and data visualization in finance
-- 📫 How to reach me Email me at tony.rpt@outlook.com or connect with me on LinkedIn.
+- 📫 How to reach me Email me at antonio.r.pereztamayo@gmail.com or connect with me on LinkedIn.
 
 
 <!---
